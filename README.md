@@ -15,7 +15,7 @@
 
 • **Database System and Management:** MySQL, PL/SQL, MSSQL
 
-• **Frameworks:**** Spring, Hibernate, JavaScript Frameworks
+• **Frameworks:** Spring, Hibernate, JavaScript Frameworks
 
 • **Markup Languages:** HTML, CSS, XML
 

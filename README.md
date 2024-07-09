@@ -8,12 +8,12 @@
 
 ## Skills
 
-• **Programming Languages:** Java, JavaScript, C, C++
+• **Programming Languages:** Java, JavaScript, C, C++, Python, Django
 • **Database System and Management:** MySQL, PL/SQL, MSSQL
 • **Frameworks:**** Spring, Hibernate, JavaScript Frameworks
 • **Markup Languages:** HTML, CSS, XML
 • **Operating Systems:** Windows, UNIX, LINUX
-• **Software Applications:** MS Office, MS Excel, Eclipse, Visual Studio, GitHub
+• **Software Applications:** MS Office, MS Excel, Eclipse, Visual Studio, GitHub, PyCharm
 • **Methodologies:** SDLC (Agile, Scrum)
 
 ## Contact

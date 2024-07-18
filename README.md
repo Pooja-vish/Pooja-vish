@@ -1,7 +1,7 @@
 ## Hi there, I am Pooja Vishwakarma, great to see you here.
 
 
-• Persuing my Masters in Applied Computing from University of Windsor.
+• Pursuing my Masters in Applied Computing from University of Windsor.
 
 • Full Stack Developer with 5 years of experience.
 
